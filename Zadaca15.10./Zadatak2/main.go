@@ -31,7 +31,6 @@ func main() {
 		},
 	}
 
-	fmt.Println()
 	osoba1.Ispisi()
 
 }
