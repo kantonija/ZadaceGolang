@@ -3,6 +3,10 @@
 // Kreiraj metodu koja ispisuje puni opis osobe, uključujući njezinu adresu.
 // (Sva polja) u formatu: Ime Prezime, 20 godina, živi u Grad, Ulica.
 
+package main
+
+import "fmt"
+
 type Adresa struct {
 	grad  string
 	ulica string
